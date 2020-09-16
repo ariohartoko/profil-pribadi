@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+	
 	printf("BIODATA DIRI");
 	printf("\n\n---------------------------------------------------------------------------------------------------\n\n");
 	printf("Nama\t\t\t: Ario Hartoko\n");
@@ -12,5 +13,6 @@ int main() {
 	printf("Pendidikan Terakhir\t: SMAN 9 Bekasi\n");
 	printf("Pendidikan Saat Ini\t: UPN 'Veteran' Jawa Timur jurusan Teknik Informatika\n");
 	printf("Hobi\t\t\t: Bersepedah, Bermain game, Menonton anime, Membaca komik\n");
+	
 	return 0;
 }
